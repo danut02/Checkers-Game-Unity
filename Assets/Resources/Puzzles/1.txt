@@ -1,0 +1,1 @@
+{"blackPieces":[{"x":2,"y":4}],"whitePieces":[{"x":1,"y":7}],"promotedPieces":[]}
